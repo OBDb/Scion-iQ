@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Toyota_iQ"
+
+generations:
+  - name: "First Generation"
+    start_year: 2012
+    end_year: 2015
+    description: "Single generation of the Scion iQ, marketed in North America from 2012-2015. The Scion iQ was the North American variant of the Toyota iQ city car, featuring a 1.3L 1NR-FE engine paired with CVT automatic transmission. Known for its compact size seating four occupants despite being only 9.8 feet long, the iQ maximized interior space through innovative engineering including a differential mounted further forward than usual and a flat fuel tank positioned underneath the cabin floor."
+    platform: "Toyota AJ10"
+    engine: "1.3L 1NR-FE I4"
+    transmission: "CVT automatic"
+    drivetrain: "Front-wheel drive"
